@@ -1,0 +1,16 @@
+header {
+    background-color: black;
+    color:white;
+    padding: 2rem;
+}
+
+ul {
+    display:flex;
+    justify-content: center;
+    list-style: none;
+    gap: 1rem;
+}
+
+a {
+    color:white;
+}
